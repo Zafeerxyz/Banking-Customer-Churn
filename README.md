@@ -200,3 +200,9 @@ Through this project, I gained practical experience in:
 
 
 *This project was developed as a practical application of machine learning concepts, with a focus on solving a business-oriented classification problem.*
+
+
+<img width="1726" height="922" alt="Screenshot 2026-11-02 162906" src="https://github.com/user-attachments/assets/b4729dd9-9558-4876-aed8-a17b8e8b4388" />
+<img width="793" height="188" alt="Screenshot 2026-11-02 163119" src="https://github.com/user-attachments/assets/d356c445-efa6-449c-a48a-c340ff8b6db8" />
+<img width="795" height="220" alt="Screenshot 2026-11-02 163208" src="https://github.com/user-attachments/assets/5b4406d7-e4cf-463d-9dc7-b6184a4094f7" />
+
